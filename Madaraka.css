@@ -1,0 +1,44 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 546px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 13px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 570px;
+  height: 407px;
+  margin: 21px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 524px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 385px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 381px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 242px;
+  }
+}
